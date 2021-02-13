@@ -8,12 +8,23 @@
     "dev": "npx nodemon index.js",
     "start": "node index.js"
   },
-  "keywords": ["API", "Bookstore"],
+  "keywords": [
+    "API",
+    "Bookstore"
+  ],
   "author": "Jeisson Francois Rosas Céspedes <jeisson.rosas@bit.institute>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongoose": "^5.11.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwlonba/bit-cenisoft-bs-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edwlonba/bit-cenisoft-bs-api/issues"
+  },
+  "homepage": "https://github.com/edwlonba/bit-cenisoft-bs-api#readme"
 }
